@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\..\..\..\Downloads\Task1.cpp">
+    <ClCompile Include="TackCalculator.cpp">
       <Filter>Файлы заголовков</Filter>
     </ClCompile>
   </ItemGroup>
